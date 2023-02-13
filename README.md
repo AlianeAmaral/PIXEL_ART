@@ -1,4 +1,4 @@
-<h2 align="center">👾 PIXEL ART - Estudos
-<i><h4 align="center">Treino de técnicas e produção em Pixel Art voltada para jogos.<br></i> 
+<h2 align="center">👾 PIXEL ART
+<i><h4 align="center">Estudo de técnicas e produção em Pixel Art voltada para jogos.<br></i> 
 
 ## 
